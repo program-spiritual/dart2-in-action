@@ -8,6 +8,7 @@
 6. [decision](./example/decision.dart)
 7. [number](./example/number.dart)
 8. [string](./example/string.dart)
+9. [boolean](./example/boolean.dart)
 
 ## 实例说明
 
