@@ -5,3 +5,5 @@
 3. [data types](./example/data_types.dart)
 4. [operator](./example/operator.dart)
 5. [variables](./example/variables.dart)
+6. [decision](./example/decision.dart)
+7. [number](./example/number.dart)
