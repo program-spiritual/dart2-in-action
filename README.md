@@ -11,6 +11,7 @@
 9. [boolean （布尔类型）](./example/boolean.dart)
 10. [lists （列表）](./example/lists.dart)
 11. [lists-basic-operation （列表基础操作）](./example/lists_basic_operation.dart)
+12. [symbol （符号）](./example/FooSymbol.dart)
 
 ## 实例说明
 
