@@ -1,14 +1,16 @@
 ## dart2-in-action
 
 1. [hello world](./bin/dart2-in-action.dart)
-2. [object-oriented programming](./example/object_orientation.dart)
-3. [data types](./example/data_types.dart)
-4. [operator](./example/operator.dart)
-5. [variables](./example/variables.dart)
-6. [decision](./example/decision.dart)
-7. [number](./example/number.dart)
-8. [string](./example/string.dart)
-9. [boolean](./example/boolean.dart)
+2. [object-oriented programming （面向对象）](./example/object_orientation.dart)
+3. [data types（数据类型）](./example/data_types.dart)
+4. [operator （操作符）](./example/operator.dart)
+5. [variables （变量）](./example/variables.dart)
+6. [decision （条件判断）](./example/decision.dart)
+7. [number （数字）](./example/number.dart)
+8. [string （字符串）](./example/string.dart)
+9. [boolean （布尔类型）](./example/boolean.dart)
+10. [lists （列表）](./example/lists.dart)
+11. [lists-basic-operation （列表基础操作）](./example/lists_basic_operation.dart)
 
 ## 实例说明
 
