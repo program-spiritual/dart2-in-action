@@ -7,3 +7,10 @@
 5. [variables](./example/variables.dart)
 6. [decision](./example/decision.dart)
 7. [number](./example/number.dart)
+8. [string](./example/string.dart)
+
+## 实例说明
+
+1. 实例代码均在` *.dart` 格式的文件中
+2. 每个文件均有说明
+3. 看完之后即可入门`flutter`
