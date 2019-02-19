@@ -16,6 +16,7 @@
 14. [enumeration （枚举类型）](./example/enumeration.dart)
 15. [function （函数）](./example/function.dart)
 16. [interface （接口）](./example/interface.dart)
+16. [class （类）](./example/class.dart)
 
 ## 实例说明
 
