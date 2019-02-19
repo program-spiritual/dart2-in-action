@@ -6,7 +6,7 @@
 3. 看完之后即可入门`flutter`
 4. [flutter Demo (阿里巴巴团队提供)](https://github.com/alibaba/flutter-go)
 5.  [flutter go 开发规范](https://github.com/alibaba/flutter-go/blob/master/Flutter_Go%20%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.md)
-6. 欢迎拍砖😁 欢迎star😭
+6. 欢迎拍砖 😁 欢迎star
 
 ## 目录
 1. [hello world](./bin/dart2-in-action.dart)
@@ -26,5 +26,7 @@
 15. [function （函数）](./example/function.dart)
 16. [interface （接口）](./example/interface.dart)
 17. [class （类）](./example/class.dart)
+18. [object （对象）](./example/oo.dart)
+19. [generics （泛型）](./example/generics.dart)
 
 
