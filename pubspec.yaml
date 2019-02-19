@@ -1,7 +1,8 @@
-name: dart2-in-action
+name: dart2_in_action
 version: 0.0.1
 description: A sample command-line application
 dependencies:
-
+xml:
 dev_dependencies:
 #  unittest: any
+
