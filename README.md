@@ -21,7 +21,7 @@
 10. [lists （列表）](./example/lists.dart)
 11. [lists-basic-operation （列表基础操作）](./example/lists_basic_operation.dart)
 12. [symbol （符号）](./example/FooSymbol.dart)
-13. [runes （神秘符号）](./example/runes.dart)
+13. [runes （特殊符号）](./example/runes.dart)
 14. [enumeration （枚举类型）](./example/enumeration.dart)
 15. [function （函数）](./example/function.dart)
 16. [interface （接口）](./example/interface.dart)
@@ -29,5 +29,8 @@
 18. [object （对象）](./example/oo.dart)
 19. [generics （泛型）](./example/generics.dart)
 20. [package （包）](./example/package.dart)
-
+21. [debug (调试)](./example/debug.md)
+22. [typedef (类型)](./example/typedef.dart)
+23. [library (库)](./example/library.dart)
+24. [async (异步)](./example/async.dart)
 
