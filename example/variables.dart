@@ -16,5 +16,5 @@ print(x);
 //Dart throws an exception if an attempt is made to modify variables declared with the final or const keyword.
 final v1 = 12;
 const v2 = 13;
-v2 = 12; // Error: Setter not found: 'v2'.
+//v2 = 12; // Error: Setter not found: 'v2'.
 }
